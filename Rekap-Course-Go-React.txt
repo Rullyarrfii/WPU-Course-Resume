@@ -1,0 +1,61 @@
+12/09/2025
+- Pengenalan Go lang
+- How to Starts?
+- Install go compiler
+15/09/2025
+- Membuat Modul/Project
+- Membuat Project Pertama
+- Bagaimana cara menjalankan program go
+16/09/2025
+- Tipe data
+  - Variabel
+  - Constanta
+  - Number (Int & Floating)
+  - Boolean
+  - String
+    -Operasi String
+      - Merge
+      - Panjang String (len)
+      - LowerCase
+      - UpperCase
+      - Check mulai string dari kata apa
+      - Check Mengandung kata
+      - Memisahkan String dari pembatas (,. )
+      - Replace
+      - Check kata di akhir
+17/09/2025
+- Konversi Tipe Data
+- Number to Number
+- Number to String
+- String to Number
+- Boolean to String
+- Int -> Float
+- Number -> String
+- String -> Number
+- Bool -> String
+- String -> Bool
+18/09/2025
+- Array
+- Function Array
+  - Len(Array //Panjang Array/Index
+  - Range //Use to loop, Return 2 Value[index,value]
+  - index(arr[1]) //return/Changes value from index [1]
+  - == (Perbandingan - Sama Dengan)
+  - != (Perbandingan - Tidak Sama Dengan)
+19/09/2025
+- Slice
+- Komponen Utama Slice
+  - Pointer
+  - Length
+  - Capacity
+- Slice All Array
+- Slice dari index awal ke tertentu
+- Slice dari index tertentu ke akhir
+- Slice dari index i ke j
+- Hubungan Array dan Slice
+- Function Slice
+  - len(slice)
+  - cap(slice)
+  - append(slice,elemen)
+  - copy(dst,src)
+  - make([]T,len,cap)
