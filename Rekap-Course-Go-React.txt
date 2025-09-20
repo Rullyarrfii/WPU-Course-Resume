@@ -54,6 +54,8 @@
 - Slice dari index i ke j
 - Hubungan Array dan Slice
 - Function Slice
+22/09/2025
+
   - len(slice)
   - cap(slice)
   - append(slice,elemen)
